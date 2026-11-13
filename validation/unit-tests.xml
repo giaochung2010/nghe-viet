@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ngheviet.app.WordCommitterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-12T23:44:02.609Z" hostname="2559d2f26c0c" time="0.042">
+  <properties/>
+  <testcase name="changingHypothesisDoesNotCommitAnUnstableWord" classname="com.ngheviet.app.WordCommitterTest" time="0.039"/>
+  <testcase name="doesNotReplayAlreadySpokenPositionsOnRecognitionRevision" classname="com.ngheviet.app.WordCommitterTest" time="0.0"/>
+  <testcase name="groupsCommonPhrasalVerb" classname="com.ngheviet.app.WordCommitterTest" time="0.001"/>
+  <testcase name="flushesTailAtEndpointAndResetsForNextUtterance" classname="com.ngheviet.app.WordCommitterTest" time="0.0"/>
+  <testcase name="commitsWithoutWaitingForSilenceAndNeverRepeats" classname="com.ngheviet.app.WordCommitterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

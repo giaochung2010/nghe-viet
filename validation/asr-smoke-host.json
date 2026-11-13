@@ -1,0 +1,20 @@
+[
+  {
+    "sample": "0.wav",
+    "recognized": "AFTER EARLY NIGHTFALL THE YELLOW LAMPS WOULD LIGHT UP HERE AND THERE THE SQUALID QUARTER OF THE BROTHELS",
+    "audio_seconds": 6.62,
+    "cpu_seconds_on_build_host": 0.43
+  },
+  {
+    "sample": "8k.wav",
+    "recognized": "YET THESE THOUGHTS AFFECTED HESTER PRYNNE LESS WITH HOPE THAN APPREHENSION",
+    "audio_seconds": 4.83,
+    "cpu_seconds_on_build_host": 0.35
+  },
+  {
+    "sample": "1.wav",
+    "recognized": "GOD AS A DIRECT CONSEQUENCE OF THE SIN WHICH MAN THUS PUNISHED HAD GIVEN HER A LOVELY CHILD WHOSE PLACE WAS ON THAT SAME DISHONOURED BOSOM TO CONNECT HER PARENT FOR EVER WITH THE RACE AND DESCENT OF MORTALS AND TO BE FINALLY A BLESSED SOUL IN HEAVEN",
+    "audio_seconds": 16.71,
+    "cpu_seconds_on_build_host": 1.1
+  }
+]
